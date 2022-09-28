@@ -1,6 +1,6 @@
 # Explorer Projeto 01  
 
-![preview](./.github/preview.png)
+![preview](./github/preview.png)
 
 > Nivel 2 do Explorer
 
