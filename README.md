@@ -16,4 +16,8 @@ Projeto construido com os conhecimentos do curso Explorer da Rocketseat.
 
 ## 📞 Contato
 
-rafael.loren175@gmail.com
+>rafael.loren175@gmail.com
+
+## 👾 Discord
+
+>rafas#7622
